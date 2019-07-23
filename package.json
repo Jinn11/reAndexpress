@@ -1,0 +1,16 @@
+{
+  "name": "reandexpress",
+  "version": "1.0.0",
+  "description": "R&E Boilerplate App",
+  "main": " server.js",
+  "scripts": {
+    "start": "node server.js",
+    "server": "nodemon server.js"
+  },
+  "author": "Jinnah",
+  "license": "ISC",
+  "dependencies": {
+    "concurrently": "^4.1.1",
+    "nodemon": "1.19.1"
+  }
+}
